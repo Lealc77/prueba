@@ -1,0 +1,24 @@
+{
+    "Medicamentos": [
+        {
+            "id": 1,
+            "nombre": "Medicamento A",
+            "precio": 10.99,
+            "foto": "medicamento_a.jpg",
+            "descripcion": "Este es un medicamento para...",
+            "indicacionMedica": "Se utiliza para...",
+            "contraindicacion": "No debe ser usado si..."
+        },
+        {
+            "id": 2,
+            "nombre": "Medicamento B",
+            "precio": 12.99,
+            "foto": "medicamento_b.jpg",
+            "descripcion": "Este es otro medicamento para...",
+            "indicacionMedica": "Se utiliza para...",
+            "contraindicacion": "No debe ser usado si..."
+        }
+    ]
+
+    
+}
